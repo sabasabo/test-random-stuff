@@ -1,9 +1,12 @@
+<<<<<<< HEAD
+d
+d
+=======
 f
 
 g
 g
+>>>>>>> origin/main
 
-
-f
-b
-c
+d
+d

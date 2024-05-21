@@ -1,4 +1,6 @@
 a
+<<<<<<< HEAD
+=======
 gx
 a
 j
@@ -6,5 +8,7 @@ a
 a
 b
 a
+>>>>>>> origin/main
 a
+
 a
