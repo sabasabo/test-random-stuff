@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 d
 d
-=======
 f
 
 g
 g
->>>>>>> origin/main
-
-d
-d
